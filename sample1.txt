@@ -1,3 +1,7 @@
 This is sample 1
+HEAD
 
 Merge test
+=======
+Comparison testing
+main
